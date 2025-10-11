@@ -6,7 +6,7 @@ En etapas posteriores se prevé incorporar fuentes externas, como datos meteorol
 
 ---
 
-### Descripción de las columnas del dataset `flights`
+### Descripción de variables
 
 | Columna | Descripción |
 |----------|--------------|
